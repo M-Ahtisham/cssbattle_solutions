@@ -10,4 +10,6 @@ Feel free to use my code and build upon it in your own solutions! 😊
 - [18th March 2025](/solutions/daily_targets/2025_03_18.md)
 - [19th March 2025](/solutions/daily_targets/2025_03_19.md)
 - [20th March 2025](/solutions/daily_targets/2025_03_20.md)
+- [07th April 2025](/solutions/daily_targets/2025_04_07.md)
+- [13th April 2025](/solutions/daily_targets/2025_04_13.md)
 
